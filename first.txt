@@ -3,3 +3,4 @@ gitの練習用のファイルです。
 git add
 git commit
 git rm
+git status
